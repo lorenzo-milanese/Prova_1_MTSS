@@ -1,7 +1,8 @@
 2117110
 2110996
 
-[Processori](processori.md)
+## Componenti
 
-[Schede Madri](schede_madri.md)
+[Processori](componenti/processori.md)
 
+[Schede Madri](componenti/schede_madri.md)
